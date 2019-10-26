@@ -180,3 +180,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: http://www.protractortest.org/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
+
+![Screen Shot](ScreenShot2562-10-26at20.48.26.png)
